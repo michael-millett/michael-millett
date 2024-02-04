@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a current graduate student at the Univeristy of Kentucky pursuing master's in Strategic Human Resource Management and Analytics.
+I'm an alumni of the Univeristy of Kentucky's Master's of Science in Strategic Human Resource Management and Analytics program.
 
 - 🔭 I’m currently working at the University of Kentucky in the HR department
 
