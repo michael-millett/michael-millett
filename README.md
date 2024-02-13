@@ -1,10 +1,10 @@
-### Hi there 👋
+#### Hi there 👋
 
 I'm an alumni of the Univeristy of Kentucky's Master's of Science in Strategic Human Resource Management and Analytics program.
 
 - 🔭 I’m currently working at the University of Kentucky in the HR department
 
-- 🌱 I’m currently learning how to code in R to use in organizational research and analytics
+- 🌱 I’m currently learning trigonometry (I never took in high school and want to learn Calc 2 and 3 which you need trigonometry for)
 
 - 💬 Ask me about organizational behavior - I love all things psychometrics!
 
